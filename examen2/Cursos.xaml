@@ -1,0 +1,17 @@
+﻿<Window x:Class="examen2.Cursos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:examen2"
+        mc:Ignorable="d"
+        Title="Cursos" Height="443.41" Width="275.627" Loaded="Window_Loaded">
+    <Grid>
+        <ComboBox x:Name="cbEstados" HorizontalAlignment="Left" Margin="60,67,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Estados" HorizontalAlignment="Left" Margin="75,26,0,0" VerticalAlignment="Top"/>
+        <DataGrid x:Name="dgCursos" HorizontalAlignment="Left" Height="224" Margin="30,116,0,0" VerticalAlignment="Top" Width="205"/>
+        <Button x:Name="btMostrar" Content="Mostrar" HorizontalAlignment="Left" Margin="45,356,0,0" VerticalAlignment="Top" Width="75" Click="BtMostrar_Click"/>
+        <Button x:Name="btRegresar" Content="Regresar" HorizontalAlignment="Left" Margin="168,356,0,0" VerticalAlignment="Top" Width="75" Click="BtRegresar_Click"/>
+
+    </Grid>
+</Window>
