@@ -1,0 +1,14 @@
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\bin\Debug\cacluladora.exe.config
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\bin\Debug\cacluladora.exe
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\bin\Debug\cacluladora.pdb
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\obj\Debug\MainWindow.g.cs
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\obj\Debug\App.g.cs
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\obj\Debug\cacluladora_MarkupCompile.cache
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\obj\Debug\cacluladora_MarkupCompile.lref
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\obj\Debug\MainWindow.baml
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\obj\Debug\cacluladora.g.resources
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\obj\Debug\cacluladora.Properties.Resources.resources
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\obj\Debug\cacluladora.csproj.GenerateResource.cache
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\obj\Debug\cacluladora.csproj.CoreCompileInputs.cache
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\obj\Debug\cacluladora.exe
+C:\Users\dai\Desktop\VsLucia\cacluladora\cacluladora\obj\Debug\cacluladora.pdb

@@ -1,0 +1,15 @@
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\bin\Debug\primerEjemplo.exe.config
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\bin\Debug\primerEjemplo.exe
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\bin\Debug\primerEjemplo.pdb
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\obj\Debug\primerEjemplo.csprojAssemblyReference.cache
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\obj\Debug\MainWindow.g.cs
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\obj\Debug\App.g.cs
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\obj\Debug\primerEjemplo_MarkupCompile.cache
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\obj\Debug\primerEjemplo_MarkupCompile.lref
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\obj\Debug\MainWindow.baml
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\obj\Debug\primerEjemplo.g.resources
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\obj\Debug\primerEjemplo.Properties.Resources.resources
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\obj\Debug\primerEjemplo.csproj.GenerateResource.cache
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\obj\Debug\primerEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\obj\Debug\primerEjemplo.exe
+C:\Users\dai\Desktop\VsLucia\primerEjemplo\primerEjemplo\obj\Debug\primerEjemplo.pdb
