@@ -55,16 +55,27 @@ namespace BitCoin
                 con = Conexion.agregaConexion();
                 SqlCommand cmd5 = new SqlCommand(String.Format("select idCliente from cliente where nombre='{0}'", cbTransfiere.SelectedValue), con);
                 SqlDataReader rd5 = cmd5.ExecuteReader();
+                rd5.Close();
                 SqlCommand cmd6 = new SqlCommand(String.Format("select idCliente from cliente where nombre='{0}'", cbRecibe.SelectedValue), con);
                 SqlDataReader rd6 = cmd6.ExecuteReader();
-                SqlCommand cmd4 = new SqlCommand(String.Format("select saldo from transaccion where idCliente={0}", rd6.GetInt32(0)), con);
+                if (rd6.Read())
+                    int trans = rd6.GetInt32(0);
+                SqlCommand cmd4 = new SqlCommand(String.Format("select saldo from transaccion where idCliente={0}", trans), con);
+                rd6.Close();
+                
                 SqlDataReader rd4 = cmd4.ExecuteReader();
+                if (rd4.Read())
+                    MessageBox.Show(" " + rd4.GetDouble(0));
                 totTransfiere = rd4.GetDouble(0) - double.Parse(txMonto.Text);
+                rd4.Close();
                 if (totTransfiere <= double.Parse(txMonto.Text))
                 {
                     SqlCommand cmd = new SqlCommand(String.Format("select saldo from transaccion where idCliente='{0}'", cbRecibe.SelectedValue), con);
                     SqlDataReader rd = cmd4.ExecuteReader();
+                    if (rd.Read())
+                        MessageBox.Show(" " + rd.GetDouble(0));
                     totRecibe = rd.GetDouble(0) - double.Parse(txMonto.Text);
+                    rd.Close();
                     SqlCommand cmd2 = new SqlCommand(String.Format("update transaccion set saldo={0} where idCliente='{1}'", totRecibe, cbRecibe.SelectedValue), con);
                     res = cmd.ExecuteNonQuery();
                     SqlCommand cmd3 = new SqlCommand(String.Format("update transaccion set saldo={0} where idCliente='{1}'", totTransfiere, cbTransfiere.SelectedValue), con);

@@ -16,7 +16,7 @@ namespace BitCoin
             SqlConnection con;
             try
             {
-                con = new SqlConnection("Data Source = 112SALAS10; Initial Catalog = datosClientes; User ID = sa; Password = sqladmin");
+                con = new SqlConnection("Data Source = 112SALAS29; Initial Catalog = datosClientes; User ID = sa; Password = sqladmin");
                 con.Open();
             }
             catch (Exception ex)
