@@ -1,0 +1,17 @@
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\BitCoin.csprojAssemblyReference.cache
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\MainWindow.g.cs
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\Reporte.g.cs
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\App.g.cs
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\BitCoin_MarkupCompile.cache
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\BitCoin_MarkupCompile.lref
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\bin\Debug\BitCoin.exe.config
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\bin\Debug\BitCoin.exe
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\bin\Debug\BitCoin.pdb
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\MainWindow.baml
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\Reporte.baml
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\BitCoin.g.resources
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\BitCoin.Properties.Resources.resources
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\BitCoin.csproj.GenerateResource.cache
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\BitCoin.csproj.CoreCompileInputs.cache
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\BitCoin.exe
+C:\Users\ATOLEDOG\Desktop\WEB-y-WPF\BitCoin\BitCoin\obj\Debug\BitCoin.pdb

@@ -1,0 +1,23 @@
+﻿<Window x:Class="BitCoin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BitCoin"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="323.314" Width="429.179" Loaded="Window_Loaded">
+    <Grid x:Name="Grid">
+        <ComboBox x:Name="cbTransfiere" HorizontalAlignment="Left" Margin="60,77,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cbRecibe" HorizontalAlignment="Left" Margin="256,77,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cbPaises" HorizontalAlignment="Left" Margin="60,163,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="CbPaises_SelectionChanged"/>
+        <Label Content="Cliente que transifere" HorizontalAlignment="Left" Margin="60,30,0,0" VerticalAlignment="Top"/>
+        <Label Content="Cliente que recibe" HorizontalAlignment="Left" Margin="270,30,0,0" VerticalAlignment="Top"/>
+        <Label Content="País" HorizontalAlignment="Left" Margin="101,119,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txMonto" HorizontalAlignment="Left" Height="23" Margin="256,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Monto" HorizontalAlignment="Left" Margin="294,119,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btTransaccion" Content="Generar" HorizontalAlignment="Left" Margin="85,240,0,0" VerticalAlignment="Top" Width="75" Click="BtTransaccion_Click"/>
+        <Label Content="Generar Transaccion" HorizontalAlignment="Left" Margin="60,209,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btReporte" Content="Reporte general" HorizontalAlignment="Left" Margin="256,220,0,0" VerticalAlignment="Top" Width="106" Click="BtReporte_Click"/>
+
+    </Grid>
+</Window>
